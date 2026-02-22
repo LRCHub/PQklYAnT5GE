@@ -1,0 +1,96 @@
+{
+  "version": 1,
+  "base_track": "Born Again（feat. Doja Cat、RAYE）",
+  "base_artist": "LISA",
+  "createdAt": "2026-02-22T16:42:49.058226Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Born Again (feat. Doja Cat & RAYE)",
+      "artist": "LISA",
+      "has_synced": true,
+      "path": "select/01_Born_Again_(feat._Doja_Cat_&_RAYE)_LISA.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Born Again (feat. Doja Cat & RAYE)",
+      "artist": "Song",
+      "has_synced": true,
+      "path": "select/02_Born_Again_(feat._Doja_Cat_&_RAYE)_Song.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Born Again (feat. Doja Cat & RAYE)",
+      "artist": "LISA",
+      "has_synced": true,
+      "path": "select/03_Born_Again_(feat._Doja_Cat_&_RAYE)_LISA.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Born Again (feat. Doja Cat & RAYE)",
+      "artist": "LISA",
+      "has_synced": true,
+      "path": "select/04_Born_Again_(feat._Doja_Cat_&_RAYE)_LISA.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Born Again (feat․ Doja Cat & RAYE)",
+      "artist": "LISA",
+      "has_synced": true,
+      "path": "select/05_Born_Again_(feat._Doja_Cat_&_RAYE)_LISA.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Born Again (feat. Doja Cat & RAYE) (Paused)",
+      "artist": "LISA",
+      "has_synced": true,
+      "path": "select/06_Born_Again_(feat._Doja_Cat_&_RAYE)_(Paused)_LISA.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Born Again (feat. Doja Cat, RAYE)",
+      "artist": "LiSA",
+      "has_synced": true,
+      "path": "select/07_Born_Again_(feat._Doja_Cat,_RAYE)_LiSA.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Born Again (feat. Doja Cat & RAYE)",
+      "artist": "LISA",
+      "has_synced": true,
+      "path": "select/08_Born_Again_(feat._Doja_Cat_&_RAYE)_LISA.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Born Again (feat. Doja Cat & RAYE)",
+      "artist": "LISA/Doja Cat/RAYE",
+      "has_synced": true,
+      "path": "select/09_Born_Again_(feat._Doja_Cat_&_RAYE)_LISA_Doja_Cat_RAYE.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Born Again (feat. Doja Cat & RAYE)",
+      "artist": "LISA, Doja Cat & Raye",
+      "has_synced": true,
+      "path": "select/10_Born_Again_(feat._Doja_Cat_&_RAYE)_LISA,_Doja_Cat_&_Raye.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Born Again (feat. Doja Cat & RAYE)",
+      "artist": "LISA, Doja Cat, RAYE",
+      "has_synced": false,
+      "path": "select/pl_01_Born_Again_(feat._Doja_Cat_&_RAYE)_LISA,_Doja_Cat,_RAYE.txt"
+    }
+  ]
+}
