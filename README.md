@@ -1,0 +1,78 @@
+# LISA – Born Again（feat. Doja Cat、RAYE）
+
+> **歌詞登録ステータス：同期歌詞あり**
+
+```lrc
+[00:00.88] (Ooh) if you tried just a little more times, I would've made you a believer
+[00:07.13] Would've showed you what it's like (I would've showed you)
+[00:11.67] Every single night (night)
+[00:24.67] 
+[00:17.56] In the car, top down, black shades on, uh (lookin' so good, can I add?)
+[00:21.90] And I just broke up with my man, like mm (a very, very silly, silly man)
+[00:26.23] One ex in the passenger seat 'cause I'm done (done, yeah, never, ever goin' back)
+[00:30.37] Down, down, rude boy, get your foot up on my dash
+[00:32.37] Got all the receipts, I'm a businesswoman
+[00:52.87] 
+[00:34.35] Littlе bit of heartbreak
+[00:36.27] A little bit of "How could you do that?"
+[00:38.20] A littlе bit of talkin' out your ass
+[00:40.28] A little bit of "Look at what you had but could not hold"
+[00:43.24] And that's on you, baby, too bad
+[00:45.31] I'm about to make it heard as I vroom-vroom
+[00:47.48] Ice-cold how I leave you 'lone, but please
+[00:49.75] Tell your mother I'ma miss her so
+[01:06.25] 
+[00:51.73] If you tried just a little more times, I would've made you a believer
+[00:57.30] Would've showed you what it's like (like)
+[01:01.66] Every single night
+[01:05.51] To be born again, baby, to be born again
+[01:08.48] If you stayed just another few nights, I could've made you pray to Jesus
+[01:14.02] Would've showed you to the light (to the light)
+[01:18.47] Every single night (every night)
+[01:22.38] To be born again, baby, to be born again
+[01:42.38] 
+[01:24.90] Non-believer, you've bitten from the fruit but can't give back
+[01:29.17] Nice to leave ya, but I would be a fool not to ask
+[01:34.60] Do your words seem gospel to ya now? (Your words seem gospel to you now?)
+[01:39.84] Keepin' me strong, choosin' to carry on after one
+[01:46.32] Too many lies would be wrong, so wrong
+[02:05.32] 
+[01:49.62] Said, he popped tags on my shoppin' spree
+[01:51.59] Stayed mad when I showed him all the long receipts
+[01:53.61] They laugh, but you crash out like a comedy
+[01:55.66] I can't be your sugar mom, get a job for me, shit
+[01:58.15] (Ah, so) boy, let go or let me live happily forever after more
+[02:02.05] I hope you learned somethin' from a lil' fiasco
+[02:04.05] You played the game smart lettin' lil' me pass go 'cause
+[02:32.05] 
+[02:06.69] If you tried just a little more times, I would've made you a believer
+[02:12.22] Would've showed you what it's like (like)
+[02:16.62] Every single night
+[02:20.53] To be born again, baby, to be born again
+[02:23.49] If you stayed just another few nights, I could've made you pray to Jesus
+[02:29.13] Would've showed you to the light (to the light)
+[02:33.40] Every single night (every night)
+[02:36.92] To be born again, baby, to be born again
+[02:56.92] 
+[02:39.14] Seasoned like the cinnamon the way I'm gettin' rid of him
+[02:41.49] I'm only gonna make you need religion at the minimum
+[02:43.27] And I'ma do it diligent, I'm lookin' for a synonym
+[02:45.35] I'm tryna find the words to tell him I ain't even feelin' him (I pray)
+[02:47.99] Don't ever let me be deficient in
+[02:49.74] Wish that you could wake up and then take me like a vitamin
+[02:51.98] I learned the hard way to let go now to save my soul (oh)
+[03:20.48] 
+[02:58.86] If you tried just a little more times, I would've made you a believer
+[03:04.56] Would've showed you what it's like (like)
+[03:08.83] Every single night
+[03:12.75] To be born again, baby, to be born again
+[03:15.65] If you stayed just another few nights, I could've made you pray to Jesus
+[03:21.11] Would've showed you to the light (to the light)
+[03:25.56] Every single night (every night)
+[03:29.48] To be born again, baby, to be born again
+[03:49.48] 
+[03:31.91] Baby, to be born, oh, baby, baby, to be born again
+[03:37.69] To be born again, baby, to be born again
+[03:40.25] Baby, to be born, oh, baby, baby, to be born again (yeah)
+[03:46.41] To be born again, baby, to be born again
+```
