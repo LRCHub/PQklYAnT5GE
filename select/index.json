@@ -2,7 +2,7 @@
   "version": 1,
   "base_track": "Born Again（feat. Doja Cat、RAYE）",
   "base_artist": "LISA",
-  "createdAt": "2026-02-22T16:42:49.058226Z",
+  "createdAt": "2026-03-22T03:25:46.598258Z",
   "candidates": [
     {
       "id": "lrclib_1",
@@ -80,9 +80,9 @@
       "id": "lrclib_10",
       "source": "lrclib",
       "title": "Born Again (feat. Doja Cat & RAYE)",
-      "artist": "LISA, Doja Cat & Raye",
+      "artist": "Various",
       "has_synced": true,
-      "path": "select/10_Born_Again_(feat._Doja_Cat_&_RAYE)_LISA,_Doja_Cat_&_Raye.lrc"
+      "path": "select/10_Born_Again_(feat._Doja_Cat_&_RAYE)_Various.lrc"
     },
     {
       "id": "petitlyrics_1",
